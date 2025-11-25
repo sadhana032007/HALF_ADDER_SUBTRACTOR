@@ -37,6 +37,7 @@ Figure -02 HALF Subtractor
 Half adder
 
 <img width="474" height="357" alt="Screenshot 2025-11-25 232921" src="https://github.com/user-attachments/assets/3fab1db0-4435-47d9-ae78-e9414b3d5d02" />
+
 Full adder
 
 <img width="676" height="479" alt="Screenshot 2025-11-25 232929" src="https://github.com/user-attachments/assets/1442cc4a-26ab-4c74-b438-7e1d63a1508f" />
